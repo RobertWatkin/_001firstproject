@@ -6,7 +6,12 @@ namespace _001firstproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = 3;
+            int b = 5;
+
+            if (a < b) {
+                Console.Write(a + " is less than " + b);
+            }
         }
     }
 }
