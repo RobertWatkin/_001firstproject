@@ -1,0 +1,11 @@
+c:\Users\robert.watkin\Visual Studio Projects\_001firstproject\bin\Debug\netcoreapp3.0\_001firstproject.exe
+C:\Users\robert.watkin\Visual Studio Projects\_001firstproject\bin\Debug\netcoreapp3.0\_001firstproject.deps.json
+C:\Users\robert.watkin\Visual Studio Projects\_001firstproject\bin\Debug\netcoreapp3.0\_001firstproject.runtimeconfig.json
+C:\Users\robert.watkin\Visual Studio Projects\_001firstproject\bin\Debug\netcoreapp3.0\_001firstproject.runtimeconfig.dev.json
+c:\Users\robert.watkin\Visual Studio Projects\_001firstproject\bin\Debug\netcoreapp3.0\_001firstproject.dll
+c:\Users\robert.watkin\Visual Studio Projects\_001firstproject\bin\Debug\netcoreapp3.0\_001firstproject.pdb
+c:\Users\robert.watkin\Visual Studio Projects\_001firstproject\obj\Debug\netcoreapp3.0\_001firstproject.csprojAssemblyReference.cache
+c:\Users\robert.watkin\Visual Studio Projects\_001firstproject\obj\Debug\netcoreapp3.0\_001firstproject.AssemblyInfoInputs.cache
+c:\Users\robert.watkin\Visual Studio Projects\_001firstproject\obj\Debug\netcoreapp3.0\_001firstproject.AssemblyInfo.cs
+c:\Users\robert.watkin\Visual Studio Projects\_001firstproject\obj\Debug\netcoreapp3.0\_001firstproject.dll
+c:\Users\robert.watkin\Visual Studio Projects\_001firstproject\obj\Debug\netcoreapp3.0\_001firstproject.pdb
